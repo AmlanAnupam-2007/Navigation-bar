@@ -1,0 +1,14 @@
+body{background-color: rgb(55, 239, 55);
+font-family:"Baloo Tamma 2",cursive;
+}
+.main-container{
+    height:200px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-image:url("BG\ img.jpg");
+    background-attachment:fixed ;
+    background-size:cover;
+    
+}
